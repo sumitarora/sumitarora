@@ -1,11 +1,18 @@
 <h1 align="center">Hello there 👋, I'm Sumit Arora</h1>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sumitarora" alt="sumitarora" />
-  </a>
-</p>
 
-<h3 align="left">Connect with me:</h3>
+<ul>
+  <li>👨🏻‍💻 Developer with more then 10 years experience</li>
+  <li>🔭 I’m currently working as Solutions Architect at Rangle.io</li>
+  <li>🌱 I’m currently learning everything 🤣 as everything keeps changing</li>
+  <li>💡 I love experimenting and validating ideas quickly</li>
+  <li>🥅 2020 Goals: Contribute more to Open Source projects</li>
+  <li>🧘 Storongly believe in Sprituality</li>
+</ul>
+
+<br/>
+
+## Connect with me:
+
 <p align="left">
   <a href="https://twitter.com/arorasumit" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arorasumit" height="30" width="40" />
@@ -15,7 +22,13 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitarora&show_icons=true&locale=en&layout=compact" alt="sumitarora" /></p>
+<br/>
+<hr />
+<br/>
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=sumitarora&row=2&column=4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitarora&langs_count=10&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitarora&show_icons=true)
 
