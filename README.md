@@ -5,7 +5,7 @@
   <li>🔭 I’m currently working as Solutions Architect at Rangle.io</li>
   <li>🌱 I’m currently learning everything 🤣 as everything keeps changing</li>
   <li>💡 I love experimenting and validating ideas quickly</li>
-  <li>🥅 2020 Goals: Contribute more to Open Source projects</li>
+  <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
   <li>🧘 Storongly believe in Sprituality</li>
 </ul>
 
