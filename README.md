@@ -5,7 +5,6 @@
   <li>🔭 I’m currently working as Solutions Architect at Rangle.io</li>
   <li>🌱 I’m currently learning everything 🤣 as everything keeps changing</li>
   <li>💡 I love experimenting and validating ideas quickly</li>
-  <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
   <li>🧘 Storongly believe in Sprituality</li>
 </ul>
 
@@ -22,9 +21,9 @@
   </a>
 </p>
 
-<br/>
-<hr />
-<br/>
+<div align="center">
+
+[![Visits Count](https://visitcount.itsvg.in/api?id=sumitarora&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=sumitarora&row=2&column=4)
 
@@ -33,3 +32,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitarora&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumitarora)
+</div>
